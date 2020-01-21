@@ -1,0 +1,16 @@
+{
+  "name": "arithmetic",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test":  "jest --verbose --coverage" ,
+    "start": "node index.js"
+  },
+  "author": "dania",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "jest": "^24.9.0"
+  }
+}
